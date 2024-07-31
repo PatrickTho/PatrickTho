@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a Masters Student and currently working on computer vision and robots.
+My Project entails a ROS2 localization method that uses 3D scene representation with Radiance Fields and Gaussian Splats:)
+
 <!--
 **PatrickTho/PatrickTho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
